@@ -1,1 +1,1 @@
-# SomeGAN
+# adGAN
